@@ -1,4 +1,5 @@
 declare module 'jalla' {
-    function Jalla(): any;
-    export = Jalla;
+  export class Jalla {
+    jalla(): void
+  }
 }

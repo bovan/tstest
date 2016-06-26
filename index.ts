@@ -1,3 +1,4 @@
-import * as Jalla from "jslib/jalla";
+import * as Jalla from "./jslib/jalla";
 
-Jalla.jalla();
+var x = new Jalla();
+x.jalla();
