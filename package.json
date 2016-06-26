@@ -1,0 +1,16 @@
+{
+  "name": "tstest",
+  "version": "1.0.0",
+  "description": "just a test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "tslint": "^3.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
